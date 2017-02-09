@@ -1,6 +1,9 @@
  #Defining Variables
 
 # Tu solucion abajo
+first_name = "Jorge"
+last_name = "Guerra"
+age = 34
 
 
 # Pruebas NO LAS BORRES
