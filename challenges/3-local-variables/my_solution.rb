@@ -2,7 +2,13 @@
 
 
 # Tu solucion abajo:
-
+num1 = 6
+num2 = 10
+sum = num1 + num2
+difference = num1 - num2
+product = num1 * num2
+quotient = num1.to_f / num2.to_f
+modulus = num1 % num2
 
 # Pruebas NO LAS BORRES
 
