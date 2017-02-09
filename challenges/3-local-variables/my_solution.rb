@@ -2,6 +2,7 @@
 
 
 # Tu solucion abajo:
+<<<<<<< HEAD
 num1 = 6
 num2 = 10
 sum = num1 + num2
@@ -9,6 +10,17 @@ difference = num1 - num2
 product = num1 * num2
 quotient = num1.to_f / num2.to_f
 modulus = num1 % num2
+=======
+
+num1 = 4
+num2 = 9
+
+sum = num2 + num1
+difference = num1 - num2
+quotient = num1.to_f / num2
+modulus = num1 % num2
+product = num1 * num2
+>>>>>>> upstream/master
 
 # Pruebas NO LAS BORRES
 

@@ -5,6 +5,13 @@ first_name = "Jorge"
 last_name = "Guerra"
 age = 34
 
+first_name = 'Juan'
+last_name = 'fdsaf'
+age = 2
+
+name = "Germán"
+name = gets.chomp
+puts "Hola #{name}"
 
 # Pruebas NO LAS BORRES
 
