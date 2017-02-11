@@ -5,5 +5,6 @@
 # Tu solucion abajo:
 
 def smallest_integer(arr)
-  arr.min
+  arr.sort!
+  arr[0]
 end
