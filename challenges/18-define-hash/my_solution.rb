@@ -2,6 +2,12 @@
 
 # Tu solucion abajo:
 
+my_info = {
+  first_name: "Jorge",
+  last_name: "Guerra",
+  hometown: "Cartagena",
+  age: 232
+}
 
 
 # Pruebas NO LAS BORRES
